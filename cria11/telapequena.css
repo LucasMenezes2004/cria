@@ -42,8 +42,12 @@
     }
 
     a#esqueci {
-        margin-top: 45px;
-        height: 70px;
-        padding-top: 23px;
+        margin-top: 25px;
+        height: 40px;
+        padding: 5px;
+    }
+
+    input#submit {
+        padding: 10px;
     }
 }
